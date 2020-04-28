@@ -1,1 +1,2 @@
 This is a text for helping learn Git
+First modify
